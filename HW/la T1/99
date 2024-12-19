@@ -1,0 +1,36 @@
+#include<stdio.h>
+int main() {
+    int Number ;
+    int n=1
+    scanf("d%" , &Number );
+    for(int i=0 ; i<Number ;i++ ) {
+        if (Number i+1 );
+        for(int j=0 ; j<Number ; j++) {
+            if(Number i=j^0 ){
+            printf("1");
+                    else{
+                        printf("0")
+
+                        } else {
+            for (int k = 0; k < number; k++) {
+                if(i==number - k - 1 ) {
+                    printf("1 ");
+                } else{
+                    printf("0 ");
+            
+                }
+            }
+            
+        }
+                    }
+            }
+        }
+    
+    
+    
+
+    
+
+
+    return 0 ;
+}
